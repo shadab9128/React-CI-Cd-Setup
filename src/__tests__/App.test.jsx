@@ -1,4 +1,4 @@
-import { render, screen, fireEvent } from "@testing-library/react";
+import { render, screen } from "@testing-library/react";
 import { expect, test } from "vitest"; // Ensure `expect` is imported
 import App from "../App";
 
